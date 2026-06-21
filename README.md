@@ -8,7 +8,7 @@
 <h3 align="center">Full Stack Developer | Building Cool Things </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=8A2BE2&center=true&vCenter=true&width=900&lines=I+turn+coffee+into+bugs;Then+bugs+into+features" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1500&color=8A2BE2&center=true&vCenter=true&width=900&lines=I+turn+coffee+into+bugs;Then+bugs+into+features" />
 </p>
 
 ---
