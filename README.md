@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Abdul Azim 
 
-<!--
-**arnouxx/arnouxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer
 
-Here are some ideas to get you started:
+## Projects
+- Devscord (Real-Time Collaboration App)
+- VR Tour Web App
+- AI Virtual Mouse
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Learning
+- HTML
+- CSS
+- JavaScript
+- React
+
+## 🛠️ Tech Stack
+- HTML
+- CSS
+- JavaScript
+- React
+- Python
+- Flask
+- MySQL
+
+## 📫 Connect
+- GitHub: https://github.com/arnouxx
