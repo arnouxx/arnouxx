@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://i.pinimg.com/1200x/e3/42/97/e342973eada30ca27feac97e5ffb51e7.jpg" />
+</p>
+
+
+
 <h1 align="center">Hi 👋, I'm Abdul Azim</h1>
 <h3 align="center">Full Stack Developer | MCA Student | Building Cool Things with React & Python</h3>
 
