@@ -53,19 +53,23 @@ Control your computer using hand gestures with OpenCV and MediaPipe.
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arnouxx\&show_icons=true\&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arnouxx&show_icons=true&theme=tokyonight" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arnouxx\&layout=compact\&theme=tokyonight)
+## Top Languages
 
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnouxx&layout=compact&theme=tokyonight" />
+</p>
 
-## 🔥 Contribution Streak
+## Contribution Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=arnouxx\&theme=tokyonight)
-
----
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=arnouxx&theme=tokyonight" />
+</p>
 
 <p align="center">
   <i>"Every commit is one step closer to becoming the developer I want to be."</i>
