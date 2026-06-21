@@ -5,10 +5,10 @@
 
 
 <h1 align="center">Hi, I'm Abdul Azim</h1>
-<h3 align="center">Full Stack Developer | MCA Student | Building Cool Things with React & Python</h3>
+<h3 align="center">Full Stack Developer | Building Cool Things </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;React+%2B+Flask+Developer;Building+Devscord;Learning+JavaScript+and+React" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;React+%2B+Flask+Developer;Devscord;Learning+JavaScript+and+React" />
 </p>
 
 ---
