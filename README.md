@@ -4,7 +4,7 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Abdul Azim</h1>
+<h1 align="center">Hi, I'm Abdul Azim</h1>
 <h3 align="center">Full Stack Developer | MCA Student | Building Cool Things with React & Python</h3>
 
 <p align="center">
