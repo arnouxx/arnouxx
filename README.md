@@ -61,16 +61,6 @@ Control your computer using hand gestures with OpenCV and MediaPipe.
 
 ---
 
-## 🎯 2026 Goals
-
-* Complete JavaScript Mastery
-* Learn React Deeply
-* Build Production-Level Full Stack Projects
-* Improve DSA & Problem Solving
-* Land a Great Developer Role
-
----
-
 <p align="center">
   <i>"Every commit is one step closer to becoming the developer I want to be."</i>
 </p>
