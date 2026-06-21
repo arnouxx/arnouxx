@@ -21,9 +21,6 @@ Interactive virtual reality web tour application using Three.js and PHP.
 
 Control your computer using hand gestures with OpenCV and MediaPipe.
 
-### 🏗️ YOLOv8 Floor Plan Detection
-
-Electrical floor plan symbol detection using YOLOv8 and computer vision.
 
 ---
 
