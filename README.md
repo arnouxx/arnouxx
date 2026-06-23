@@ -44,7 +44,7 @@ Control your computer using hand gestures with OpenCV and MediaPipe.
 ---
 
 ## Currently Learning
-![PHP](https://img.shields.io/badge/Git-111111?style=for-the-badge\&logo=php)
+![PHP](https://img.shields.io/badge/Php-111111?style=for-the-badge\&logo=php)
 
 
 ---
