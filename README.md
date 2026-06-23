@@ -43,21 +43,11 @@ Control your computer using hand gestures with OpenCV and MediaPipe.
 
 ---
 
-## 📚 Currently Learning
+## Currently Learning
+![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge\&logo=php)
 
-* HTML & CSS
-* JavaScript
-* React
-* Backend Development
-* Java
 
 ---
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arnouxx&show_icons=true&theme=tokyonight" />
-</p>
 
 ## Top Languages
 
