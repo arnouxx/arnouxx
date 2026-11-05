@@ -1,94 +1,110 @@
-<div align="center">
+<p align="center">
+  <img width="100%" src="https://i.pinimg.com/1200x/e3/42/97/e342973eada30ca27feac97e5ffb51e7.jpg" alt="Header Banner" />
+</p>
 
-  <!-- Aesthetic Header Banner -->
-  <img src="https://i.pinimg.com/1200x/e3/42/97/e342973eada30ca27feac97e5ffb51e7.jpg" alt="Header Banner" width="100%" style="border-radius: 14px; max-height: 340px; object-fit: cover; box-shadow: 0 10px 30px rgba(0,0,0,0.5);" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=800&size=24&duration=3500&pause=900&color=f5f3f4&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Abdul+Azim;Full+Stack+Developer+%7C+Building+Devscord+%F0%9F%9A%80;Real-Time+Collaborative+Web+Apps;Python+%E2%80%A2+React+%E2%80%A2+Flask+%E2%80%A2+WebSockets;Always+Learning+Something+New;" alt="Typing Title" />
+</p>
 
-  <br/><br/>
+<br>
 
-  <!-- Dynamic Typing Greeting -->
-  <h1>Hi, I'm <span style="color: #8A2BE2;">Abdul Azim</span> 👋</h1>
-  
-  <a href="https://github.com/arnouxx">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1800&color=9D5CFF&center=true&vCenter=true&width=750&lines=Full+Stack+Software+Developer;Crafting+Real-Time+Collaborative+Web+Apps;Creator+of+Devscord+%F0%9F%9A%80;Python+%E2%80%A2+React+%E2%80%A2+Flask+%E2%80%A2+JavaScript;Turning+coffee+into+code+%26+cool+projects" alt="Typing SVG" />
-  </a>
+## 📌 About Me
 
-  <br/><br/>
+<table>
+<tr>
+<td width="58%" valign="top">
 
-  <!-- Quick Badges / Socials -->
-  <a href="mailto:abdulazim49787@gmail.com">
-    <img src="https://img.shields.io/badge/Email-abdulazim49787%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/arnouxx">
-    <img src="https://img.shields.io/badge/GitHub-arnouxx-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://github.com/arnouxx/portfolio">
-    <img src="https://img.shields.io/badge/Portfolio-Live-5865F2?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" />
-  </a>
+```javascript
+const abdul = {
+    role: "Full Stack Developer",
+    location: "India 🇮🇳",
 
-</div>
+    building: [
+        "Devscord (Real-Time Collab Platform)",
+        "AI & Interactive Web Apps"
+    ],
 
-<br/>
+    learning: [
+        "Real-Time Distributed Systems",
+        "Scalable Cloud Backend Architecture",
+        "Data Structures & Algorithms"
+    ],
 
----
-
-### 👨‍💻 About Me
-
-```yaml
-name: Abdul Azim
-handle: @arnouxx
-role: Full Stack Developer
-location: Open to Worldwide Remote
-passion: Building real-time interactive apps, developer tooling & immersive web experiences
-current_focus: Distributed WebSockets, scalable backend architectures & full-stack UX
-superpower: Debugging at 2 AM with a hot cup of coffee ☕
+    tech: {
+        frontend: ["React", "JavaScript", "HTML5", "CSS3", "Vite"],
+        backend: ["Python", "Flask", "Socket.IO", "PHP"],
+        database: ["PostgreSQL", "MySQL"],
+        vision_3d: ["OpenCV", "MediaPipe", "Three.js"]
+    }
+};
 ```
 
-- 🔭 **Currently Building**: [**Devscord**](https://github.com/arnouxx/Devscord-) — A real-time developer collaboration platform combining Discord-style rooms with an in-browser Monaco IDE and multi-language compilation.
-- ⚡ **Exploring**: Computer Vision (OpenCV / MediaPipe), WebGL / 3D Graphics (Three.js), and high-concurrency Socket systems.
-- 💬 **Ask me about**: **React, Python, Flask, Socket.IO, JavaScript, PostgreSQL**.
-- 🎯 **2026 Goal**: Ship impactful open-source tools and contribute to the developer community.
+<br>
 
----
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="100%"/>
 
-### 🛠️ Tech Stack & Tooling
+</td>
 
-<div align="center">
+<td width="42%" align="center" valign="middle">
 
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,flask,js,react,vite,html,css,tailwind,postgres,mysql,threejs,opencv,git,github,vscode,postman&perline=8&theme=dark" alt="My Skills" />
+<img src="https://64.media.tumblr.com/fe4f5cf2401ff266b34ef82791f11734/7e66e38f766b84c0-8a/s500x750/be2e2aca769f0a671dd8e32d55cae58f12e82460.gif" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="mailto:abdulazim49787@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/arnouxx">
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/arnouxx/portfolio">
+    <img src="https://img.shields.io/badge/PORTFOLIO-5865F2?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://discord.com">
+    <img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+</p>
 
-  <br/><br/>
+<br>
 
-  <!-- Organized Categorized Chips -->
-  <table>
-    <tr>
-      <td align="left" width="160"><strong>Frontend</strong></td>
-      <td>React 19, Vite, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS, Framer Motion</td>
-    </tr>
-    <tr>
-      <td align="left"><strong>Backend & APIs</strong></td>
-      <td>Python 3, Flask, Socket.IO (WebSockets), RESTful APIs, Bcrypt, Flask-Mail</td>
-    </tr>
-    <tr>
-      <td align="left"><strong>Databases</strong></td>
-      <td>PostgreSQL, MySQL, Psycopg 3</td>
-    </tr>
-    <tr>
-      <td align="left"><strong>Graphics & AI</strong></td>
-      <td>Three.js (360° VR WebGL), OpenCV, MediaPipe Hand Tracking</td>
-    </tr>
-    <tr>
-      <td align="left"><strong>DevOps & Tools</strong></td>
-      <td>Git, GitHub, VS Code, Postman, npm, pip</td>
-    </tr>
-  </table>
+## 🛠 Tech Stack
 
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,flask,js,react,vite,html,css,postgres,mysql,threejs,opencv,php,git,github,vscode&perline=8&theme=dark" alt="Tech Stack Icons" />
+</p>
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="Socket.io"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+</p>
 
-### 🚀 Featured Projects
+<p align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
+  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Three.js"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+</p>
+
+<br>
+
+## 🚀 Featured Projects
 
 <table>
   <thead>
@@ -115,7 +131,7 @@ superpower: Debugging at 2 AM with a hot cup of coffee ☕
         <a href="https://github.com/arnouxx/Virtual-Mouse-Using-Hand-Gesture-Machine-Learning-"><strong>🖱️ AI Virtual Mouse</strong></a>
       </td>
       <td>
-        AI-powered contactless computer mouse allowing cursor navigation and clicks through real-time webcam hand gesture recognition.
+        Computer vision system enabling contactless mouse cursor control and clicks through real-time hand gesture tracking.
       </td>
       <td>
         <code>Python</code> <code>OpenCV</code> <code>MediaPipe</code>
@@ -126,7 +142,7 @@ superpower: Debugging at 2 AM with a hot cup of coffee ☕
         <a href="https://github.com/arnouxx/VR-Tour-Web-App-"><strong>🌍 VR Tour Web App</strong></a>
       </td>
       <td>
-        Interactive 360° virtual reality web tour enabling immersive browser-based exploration of architectural spots and campuses.
+        Interactive 360-degree virtual reality web tour application delivering immersive browser-based exploration of real locations.
       </td>
       <td>
         <code>Three.js</code> <code>JavaScript</code> <code>WebGL</code> <code>PHP</code>
@@ -137,7 +153,7 @@ superpower: Debugging at 2 AM with a hot cup of coffee ☕
         <a href="https://github.com/arnouxx/portfolio"><strong>🎨 Developer Portfolio</strong></a>
       </td>
       <td>
-        Personal portfolio highlighting full-stack projects, interactive showcases, and contact channels.
+        Personal portfolio highlighting full-stack projects, interactive showcases, and direct contact channels.
       </td>
       <td>
         <code>HTML5</code> <code>CSS3</code> <code>JavaScript</code>
@@ -146,40 +162,44 @@ superpower: Debugging at 2 AM with a hot cup of coffee ☕
   </tbody>
 </table>
 
----
+<br>
 
-### 📊 GitHub Activity & Analytics
+## 📊 GitHub Analytics
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=arnouxx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8A2BE2&icon_color=00F0FF&text_color=DBDEE1" alt="Abdul's GitHub Stats" width="100%" />
-      </td>
-      <td align="center" width="50%">
-        <img src="https://streak-stats.demolab.com?user=arnouxx&theme=tokyonight&hide_border=true&background=0D1117&ring=8A2BE2&fire=00F0FF&currStreakLabel=00F0FF" alt="Abdul's Streak Stats" width="100%" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnouxx&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8A2BE2&text_color=DBDEE1" alt="Top Languages" width="60%" />
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arnouxx&theme=tokyonight" alt="GitHub Profile Summary" />
+</p>
 
----
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arnouxx&theme=tokyonight" alt="Repos per Language" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=arnouxx&theme=tokyonight&utcOffset=5.5" alt="Productive Time" />
+</p>
 
-<div align="center">
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arnouxx&theme=tokyonight" alt="GitHub Stats" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arnouxx&theme=tokyonight" alt="Most Commit Language" />
+</p>
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24&height=100&section=footer" width="100%"/>
+<br>
 
-  <p>
-    <i>"Every line of code is an opportunity to craft something remarkable."</i>
-  </p>
-  
-  <p>
-    ⚡ Designed with passion by <strong><a href="https://github.com/arnouxx">Abdul Azim (@arnouxx)</a></strong>
-  </p>
+## 📋 GitHub Profile Summary
 
-</div>
+<p align="center">
+  <img height="32" src="https://komarev.com/ghpvc/?username=arnouxx&label=PROFILE+VIEWS&style=for-the-badge&labelColor=181717&color=8B5CF6" alt="Profile Views"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&logoColor=white&label=REPOSITORIES&labelColor=181717&color=F43F5E&query=public_repos&url=https://api.github.com/users/arnouxx" alt="Repositories"/>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/github/followers/arnouxx?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS&labelColor=181717&color=38BDF8" alt="Followers"/>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/github/stars/arnouxx?affiliations=OWNER&style=for-the-badge&logo=github&logoColor=white&label=STARS&labelColor=181717&color=22C55E" alt="Stars"/>
+</p>
+
+<p align="center">
+  <i>"Every commit is one step closer to becoming the developer I want to be."</i> 🚀
+</p>
+
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&text=Thanks%20for%20Visiting!&fontSize=22&fontColor=ffffff&animation=fadeIn&color=1A1B27" alt="Footer Wave"/>
+</p>
